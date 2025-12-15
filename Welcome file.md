@@ -72,9 +72,8 @@ LinkedIn: <a href="http://www.linkedin.com/in/khalid-ogundipe">www.linkedin.com/
 </ul>
 <hr>
 <h3 id="education--certifications">Education &amp; Certifications</h3>
-<h4 id="b.sc.-in-your-course-of-study-e.g.-computer-science-expected-2027"><a href="http://B.Sc">B.Sc</a>. in [Your Course of Study, e.g., Computer Science] (Expected 2027)</h4>
-<p>[Your University Name], Nigeria | Admitted 2025<br>
-<em>Relevant Coursework: Object-Oriented Programming, Data Structures &amp; Algorithms, Database Management Systems, Software Engineering.</em></p>
+<h4 id="b.sc.-computer-science-expected-2027"><a href="http://B.Sc">B.Sc</a>.[ Computer Science] (Expected 2027)</h4>
+<p>[Emanuel Alayande University of Education], Nigeria | Admitted 2025</p>
 <h4 id="professional-certifications">Professional Certifications:</h4>
 <ul>
 <li>Career Essentials in Generative AI (Microsoft &amp; LinkedIn)</li>
